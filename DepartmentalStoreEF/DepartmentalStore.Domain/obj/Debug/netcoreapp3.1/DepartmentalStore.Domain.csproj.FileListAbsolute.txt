@@ -1,0 +1,12 @@
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.deps.json
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.csprojAssemblyReference.cache
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.AssemblyInfoInputs.cache
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.AssemblyInfo.cs
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.csproj.CoreCompileInputs.cache
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.runtimeconfig.json
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.runtimeconfig.dev.json
+C:\Trainning\Projects\DepartmentalStoreEF\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.genruntimeconfig.cache
